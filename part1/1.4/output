@@ -1,0 +1,18 @@
+Script started on 2021-05-06 18:55:39+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="168" LINES="50"]
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.4[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.4[00m$ cleardocker container prunerun -it --name curly ubuntu sh -c 'apt update -qq; apt-get install curl -qq > /dev/null; echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
+[?2004lAll packages are up to date.
+debconf: delaying package configuration, since apt-utils is not installed
+Input website:
+helsinki.fi
+Searching..
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.helsinki.fi/">here</a>.</p>
+</body></html>
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.4[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.4[00m$ [?2004l
+exit
+
+Script done on 2021-05-06 18:56:24+03:00 [COMMAND_EXIT_CODE="0"]
