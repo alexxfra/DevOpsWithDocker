@@ -1,0 +1,12 @@
+Script started on 2021-05-06 19:23:35+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="64"]
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.6[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.6[00m$ [7mdocker run -it devopsdockeruh/pull_exercise[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdocker run -it devopsdockeruh/pull_exercise
+[A
+[?2004l[1G[0JGive me the password: [23Gbsics[1G[0JGive me the password: bsic[27G[1G[0JGive me the password: bsi[26G[1G[0JGive me the password: bs[25G[1G[0JGive me the password: b[24Gasics
+You found the correct password. Secret message is:
+"This is the secret message"
+
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.6[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.6[00m$ [?2004l
+exit
+
+Script done on 2021-05-06 19:23:49+03:00 [COMMAND_EXIT_CODE="0"]

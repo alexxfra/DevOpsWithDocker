@@ -1,0 +1,36 @@
+Script started on 2021-05-06 19:18:42+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="64"]
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.5[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.5[00m$ docker iamges[K[K[K[K[Kmages 
+[?2004lREPOSITORY                          TAG       IMAGE ID       CREATED       SIZE
+ubuntu                              latest    7e0aa2d69a15   12 days ago   72.7MB
+ubuntu                              18.04     4eb8f7c43909   12 days ago   63.1MB
+devopsdockeruh/simple-web-service   ubuntu    4e3362e907d5   7 weeks ago   83MB
+devopsdockeruh/simple-web-service   alpine    fd312adc88e0   7 weeks ago   15.7MB
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.5[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.5[00m$ docker run devopsdockeruh/simple-web-service:alpine [C[1@-[C[1@d[1@ [1@-[1@i[1@t[1@ 
+[?2004l77299f2d6f524ff3649328e9d76196b41468486b285b27be6aa31e901996c66a
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.5[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.5[00m$ docker eec[K[Kxec 7729 sh -c ;;[K[K''t'a'i'l' '-'f' '.'/'t'e'x't'.'l'o'g'
+[?2004l2021-05-06 16:19:11 +0000 UTC
+2021-05-06 16:19:13 +0000 UTC
+2021-05-06 16:19:15 +0000 UTC
+2021-05-06 16:19:17 +0000 UTC
+2021-05-06 16:19:19 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-05-06 16:19:21 +0000 UTC
+2021-05-06 16:19:23 +0000 UTC
+2021-05-06 16:19:25 +0000 UTC
+2021-05-06 16:19:27 +0000 UTC
+2021-05-06 16:19:29 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-05-06 16:19:31 +0000 UTC
+2021-05-06 16:19:33 +0000 UTC
+2021-05-06 16:19:35 +0000 UTC
+2021-05-06 16:19:37 +0000 UTC
+2021-05-06 16:19:39 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-05-06 16:19:41 +0000 UTC
+2021-05-06 16:19:43 +0000 UTC
+2021-05-06 16:19:45 +0000 UTC
+^C
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.5[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.5[00m$ [?2004l
+exit
+
+Script done on 2021-05-06 19:19:49+03:00 [COMMAND_EXIT_CODE="130"]
