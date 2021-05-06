@@ -1,0 +1,9 @@
+Script started on 2021-05-06 22:48:59+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="64"]
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.14[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.14[00m$ docker run -d -p 5000:5000 nodetest [K
+[?2004l76d66cb8faa52d1401f4baa3c4cc8c18764d8946625d5d51c92bc63a4f1b335c
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.14[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.14[00m$ doc[K[K[Kdocker run -d -p 5000:5000 nodetest[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K8-80-[K[K[K[K080:8080 gotest
+[?2004l8f7cd54ed8000d713986a64cba6aad86403d0a91df5cf67b259ca49f0d6d9625
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.14[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.14[00m$ [?2004l
+exit
+
+Script done on 2021-05-06 22:50:05+03:00 [COMMAND_EXIT_CODE="0"]

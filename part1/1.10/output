@@ -1,0 +1,9 @@
+Script started on 2021-05-06 21:11:35+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="131" LINES="64"]
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.10[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.10[00m$ docker run -d -p 9999:8080 devopsdockeruh/simple-web-service server
+[?2004l2a38bd66393cdb04ae74f7c50d707c33342c7c1f1a614967873030a7c001c429
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.10[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.10[00m$ curl localhost[K[K[K[K[K[K[K[K[K127.0.0.1:9999
+[?2004l{"message":"You connected to the following path: /","path":"/"}[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.10[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.10[00m$ 
+[?2004l[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.10[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.10[00m$ [?2004l
+exit
+
+Script done on 2021-05-06 21:12:13+03:00 [COMMAND_EXIT_CODE="0"]
