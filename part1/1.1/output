@@ -1,0 +1,19 @@
+Script started on 2021-05-06 16:14:37+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="171" LINES="48"]
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.1[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.1[00m$ docker run nging[K[K[K[K[K-d nginx
+[?2004l63bbca3c49178f0473a3ecb27615de27cbfea7071c60cfd8cf08d090e54750fc
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.1[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.1[00m$ docker run -d nginx
+[?2004l26ddaf37f9905fedeeac9206149e6c50bf3c54fe184b23075eaa94e224ca25f7
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.1[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.1[00m$ docker run -d nginx
+[?2004l03d15a9a17749ff8a9f496cf9494a52e3112dcb37079d7942dc43903f32cc059
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.1[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.1[00m$ docker stop 63 03
+[?2004l63
+03
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.1[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.1[00m$ docker ps -a
+[?2004lCONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                     PORTS     NAMES
+03d15a9a1774   nginx     "/docker-entrypoint.…"   21 seconds ago   Exited (0) 5 seconds ago             happy_sammet
+26ddaf37f990   nginx     "/docker-entrypoint.…"   22 seconds ago   Up 21 seconds              80/tcp    adoring_hugle
+63bbca3c4917   nginx     "/docker-entrypoint.…"   23 seconds ago   Exited (0) 5 seconds ago             modest_snyder
+[?2004h]0;alexino@alxub: ~/Projects/devops/DevOpsWithDocker/part1/1.1[01;32malexino@alxub[00m:[01;34m~/Projects/devops/DevOpsWithDocker/part1/1.1[00m$ [?2004l
+exit
+
+Script done on 2021-05-06 16:15:22+03:00 [COMMAND_EXIT_CODE="0"]
